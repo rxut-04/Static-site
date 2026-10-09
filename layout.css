@@ -1,0 +1,15 @@
+header img{
+    width: 100px;
+}
+
+header ul li {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main section button {
+    border-radius: 8px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+}
